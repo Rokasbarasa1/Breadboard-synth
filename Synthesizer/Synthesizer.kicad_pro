@@ -336,6 +336,14 @@
     [
       "5c5ff7b6-b3a9-4bab-9980-4df29485b8a5",
       "2-channel mixer"
+    ],
+    [
+      "c2037ad4-6c21-4ca1-939b-5073e52d0b28",
+      "VCF"
+    ],
+    [
+      "012597ae-a438-4a63-9404-62ae90edeaa2",
+      "Old VCF"
     ]
   ],
   "text_variables": {}
